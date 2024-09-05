@@ -1,0 +1,8 @@
+{
+  "name": "com.kakubce.packageimporter",
+  "version": "1.0.1",
+  "displayName": "Package Importer",
+  "description": "Simple package importer",
+  "unity": "2021.1",
+  "dependencies": { }
+}
