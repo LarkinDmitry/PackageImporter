@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.kakubce.packageimporter": {
-      "version": "file:PackageLoader",
+      "version": "file:PackageImporter",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
