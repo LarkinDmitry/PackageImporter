@@ -19,3 +19,6 @@ MonoBehaviour:
   - _nameForUI: UniTask
     _name: com.cysharp.unitask
     _url: https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+  - _nameForUI: SimpleTranslator
+    _name: com.kakubce.simpletranslator
+    _url: https://github.com/LarkinDmitry/SimpleTranslator.git
