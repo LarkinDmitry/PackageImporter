@@ -21,4 +21,7 @@ MonoBehaviour:
     _url: https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
   - _nameForUI: SimpleTranslator
     _name: com.kakubce.simpletranslator
-    _url: https://github.com/LarkinDmitry/SimpleTranslator.git?path=Packages/SimpleTranslator
+    _url: https://github.com/LarkinDmitry/StringTools.git?path=Packages/SimpleTranslator
+  - _nameForUI: DeclensionGenerator
+    _name: com.kakubce.declensiongenerator
+    _url: https://github.com/LarkinDmitry/StringTools.git?path=Packages/DeclensionGenerator
